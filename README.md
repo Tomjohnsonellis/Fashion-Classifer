@@ -15,5 +15,5 @@ The task given to us was to use a convolutional neural network to classify cloth
 We are using [Zalando's fashion dataset](https://github.com/zalandoresearch/fashion-mnist) which contains 10,000 images for us to use.
 
 #### Installation
-- [Python](https://www.python.org/downloads/) or
-- Pytorch: 'conda install -c pytorch pytorch'
+- [Python](https://www.python.org/downloads/) 
+- Pytorch: `conda install -c pytorch pytorch`
