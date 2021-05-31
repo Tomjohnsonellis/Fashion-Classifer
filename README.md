@@ -4,6 +4,7 @@ Monday Team Project using the MNIST-Fashion dataset
 [Project Deepnote](https://deepnote.com/project/Adidas-Twz26VGSTv6-3JgOJHonsw/%2FHome%20Notebook.ipynb)
 
 ### Team members
+[Myself](https://github.com/Tomjohnsonellis)
 [Vlad](https://github.com/VladimirGas)<br>
 [Agathiya](https://github.com/AgathiyaRaja)<br>
 [Marvin](https://github.com/M-C-AD)<br>
