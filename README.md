@@ -1,4 +1,4 @@
-# Fashion-Classifer
+# Fashion-Classifier
 Monday Team Project using the MNIST-Fashion dataset
 
 [Project Deepnote](https://deepnote.com/project/Adidas-Twz26VGSTv6-3JgOJHonsw/%2FHome%20Notebook.ipynb)
